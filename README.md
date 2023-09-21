@@ -4,8 +4,8 @@ This project demonstrates multi-tenant authentication using NextAuth.js . Users 
 
 ## Table of Contents
 
-- [Setup and Installation](##setup-and-installation)
-- [Running the Application](##running-the-application)
+- [Setup and Installation](#setup-and-installation)
+- [Running the Application](#running-the-application)
 - [Deployment to Vercel](#deployment-to-vercel)
 - [How the Application Works](#how-the-application-works)
 - [Additional Information](#additional-information)
